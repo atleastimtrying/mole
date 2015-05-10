@@ -1,0 +1,14 @@
+{
+  "name": "Moley",
+  "description": "Tap the squares before they disappear, dont miss or you'll lose points!",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Anders Fisher",
+    "url": "http://andersfisher.com"
+  },
+  "icons": {
+    "128": "/mole.png"
+  },
+  "fullscreen": "true",
+  "default_locale": "en"
+}
